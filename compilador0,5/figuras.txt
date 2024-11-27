@@ -1,0 +1,5 @@
+rectangulo(7)[0, posicion(x=25, y=15)]
+circulo(4)[0, posicion(x=33, y=20)]
+triangulo(3)[0, posicion(x=33, y=19)]
+pentagono(3)[0, posicion(x=33, y=20)]
+hexagono(2)[0, posicion(x=33, y=20)]

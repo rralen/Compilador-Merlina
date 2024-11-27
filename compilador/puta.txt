@@ -1,0 +1,5 @@
+condensador1(2,3){10}
+diodo1(4,5){5}
+recistensia1(3,4){7}
+fusible1(6,7){12}
+transistor1(8,9){6}
